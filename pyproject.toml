@@ -1,0 +1,2 @@
+[tool.fastapi]
+entrypoint = "fastapi_demo:app"
