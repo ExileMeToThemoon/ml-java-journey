@@ -1,9 +1,21 @@
+# python 缓存
 __pycache__/
+
+# 一般忽略项
 *.pyc
+
+# pycharm 配置
 .idea/
+
+# 虚拟环境
 venv/
-.env# 默认忽略的文件
+
+# 敏感信息
+.env 
+
 /shelf/
+
 /workspace.xml
+
 # 基于编辑器的 HTTP 客户端请求
 /httpRequests/
